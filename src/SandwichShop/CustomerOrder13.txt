@@ -1,0 +1,4 @@
+Ordered Items
+[Pork $0.99, Tomato $0.45]
+Order Cost: $1.24
+Total Cost $ 13.33

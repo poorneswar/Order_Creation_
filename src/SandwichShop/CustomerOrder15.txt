@@ -1,0 +1,4 @@
+Ordered Items
+[Beef $0.89, Onion $0.25]
+Order Cost: $1.14
+Total Cost $ 1.14

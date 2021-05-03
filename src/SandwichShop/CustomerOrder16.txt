@@ -1,0 +1,4 @@
+Ordered Items
+[Beef $0.89, Onion $0.25, Chili $0.75]
+Order Cost: $1.89
+Total Cost $ 13.98

@@ -1,0 +1,5 @@
+Customer Name: ash
+Ordered Items
+[Round bun $0.69, Beef $0.89, Onion $0.25, Tomato $0.45, Ranch $0.65, Coca Cola $0.99, Milk $1.35]
+Order Cost: $5.27
+Total Cost $ 17.36

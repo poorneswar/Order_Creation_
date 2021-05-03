@@ -1,0 +1,4 @@
+Ordered Items
+[Beef $0.89, Chicken $0.69, Round bun $0.69, Pork $0.99, Onion $0.25]
+Order Cost: $3.41
+Total Cost $ 15.5

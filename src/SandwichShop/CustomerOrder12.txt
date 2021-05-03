@@ -1,0 +1,4 @@
+Ordered Items
+[Baguette $0.59, Round bun $0.69, Square bun $0.79, Chicken $0.69, Tomato $0.45, Ranch $0.65, Coca Cola $0.99]
+Order Cost: $4.95
+Total Cost $ 17.039999

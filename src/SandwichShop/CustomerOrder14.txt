@@ -1,0 +1,4 @@
+Ordered Items
+[Square bun $0.79, Beef $0.89, Onion $0.25]
+Order Cost: $1.93
+Total Cost $ 1.93

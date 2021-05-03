@@ -1,0 +1,5 @@
+Customer Name: poorneswar
+Ordered Items
+[Chicken $0.69, Tomato $0.45, Ranch $0.65, Coca Cola $0.99]
+Order Cost: $2.88
+Total Cost $ 2.88

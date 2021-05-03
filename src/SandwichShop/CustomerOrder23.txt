@@ -1,0 +1,5 @@
+Customer Name: poorneswar
+Ordered Items
+[Round bun $0.69, Pork $0.99, Chicken $0.69, Ranch $0.65, Coca Cola $0.99]
+Order Cost: $3.91
+Total Cost $ 3.91

@@ -1,0 +1,5 @@
+Customer Name: qwer
+Ordered Items
+[Beef $0.89, Onion $0.25, Tomato $0.45, Onion $0.25, Chicken $0.69, Round bun $0.69, Baguette $0.59, Ranch $0.65, Milk $1.35, Coca Cola $0.99, Beef $0.89, Ranch $0.65, Milk $1.35, Milk $1.35, Milk $1.35, Ranch $0.65, Chili $0.75, Orange $1.15, Mayo $0.80, Coca Cola $0.99, Tomato $0.45, Square bun $0.79]
+Order Cost: $9.89
+Total Cost $ 9.89

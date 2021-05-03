@@ -1,0 +1,5 @@
+Customer Name: ash
+Ordered Items
+[Square bun $0.79, Cucamber $0.35, Ranch $0.65, Coca Cola $0.99]
+Order Cost: $2.78
+Total Cost $ 2.78

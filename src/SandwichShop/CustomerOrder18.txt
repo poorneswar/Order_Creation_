@@ -1,0 +1,5 @@
+Customer Name: qwer
+Ordered Items
+[Onion $0.25, Ranch $0.65, Mayo $0.80, Orange $1.15]
+Order Cost: $2.85
+Total Cost $ 14.94
